@@ -1,4 +1,5 @@
 # Lab 1 Report - Remote Access and FileSystem
+---
 **cd**
 1. Share an example of using the command with no arguments.
 ![Image](cd1.png)
@@ -9,7 +10,7 @@
 3. Share an example of using the command with a path to a file as an argument.
 ![Image](cd3.png)
 - Prior to running the command, the working directory is /home. When running the command, the output throws an error stating that the file en-us.txt is not a directory; therefore, the command didn't go through and the working directory is still /home.
-
+---
 **ls**
 1. Share an example of using the command with no arguments.
 ![Image](ls1.png)
@@ -20,7 +21,7 @@
 3. Share an example of using the command with a path to a file as an argument.
 ![Image](ls3.png)
 -Before running the command, the working directory is /lecture1/messages. When the command is ran, the output gives the name of the file zh-cn.txt, which is not an error.
-
+---
 **cat**
 1. Share an example of using the command with no arguments.
 ![Image](cat1.png)
